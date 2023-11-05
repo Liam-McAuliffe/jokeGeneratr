@@ -1,4 +1,5 @@
 // app.js
+// setups, punchlines, and taglines created with ChatGPT
 
 const setups = [
     "Why was the JavaScript developer sad?",
