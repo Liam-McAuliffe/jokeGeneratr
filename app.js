@@ -7,7 +7,6 @@ const setups = [
     "Why do programmers prefer iOS development?",
     "What's a programmer's favorite place in France?",
     "Why did the developer go broke?",
-    "How do you comfort a JavaScript bug?",
     "What's a programmer's favorite snack?",
     "Why was the function calling itself?",
     "Why do programmers always mix up Christmas and Halloween?",
@@ -44,5 +43,6 @@ const setups = [
         return setups[indexRand] + " " + punchlines[indexRand]
     }
   }
+  
 
   console.log(generateJoke());
